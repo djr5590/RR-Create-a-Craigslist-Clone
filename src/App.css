@@ -39,7 +39,7 @@ img {
 }
 
 .searchbar {
-  font-size: 5vh;
+  /* font-size: 5vh; */
   grid-area: searchbar;
   border: 1px solid black;
 }
