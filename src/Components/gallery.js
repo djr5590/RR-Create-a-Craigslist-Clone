@@ -1,5 +1,5 @@
 import React from "react";
-import Posting from "./posting"
+import Posting from "./Posting"
 
 function Gallery() {
     const craigPost = require('../postings')

@@ -1,5 +1,5 @@
 import React from "react";
-import Help from "./help"
+import Help from "./Help"
 
 function Sidebar(){
     return (
